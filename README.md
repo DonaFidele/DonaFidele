@@ -49,7 +49,7 @@
 
 # 🐍 Contribution Snake
 
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+![](https://github.com/DonaFidele/snk/raw/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
