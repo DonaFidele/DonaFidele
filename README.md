@@ -11,7 +11,7 @@
 🌍 Always open to contributing to large-scale projects  
 📍 Cotonou, Benin
 
----
+
 
 # 🌐 Contact
 
@@ -19,7 +19,7 @@
 [![](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:houekpoehafidele@gmail.com)
 [![](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://donafidele.github.io/dona-fidele-portfolio/)
 
----
+
 
 # ⚡ Tech Stack
 
@@ -35,7 +35,7 @@
 **Tools & DevOps**  
 ![](https://skillicons.dev/icons?i=git,github,docker,vscode,linux,vercel)
 
----
+
 
 # 🎯 What I'm working on
 
